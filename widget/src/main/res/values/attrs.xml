@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="EditTextWithLabel">
+        <attr name="label" format="string"/>
+        <attr name="text" format="string"/>
+        <attr name="label_text_color" format="color"/>
+        <attr name="text_color" format="color"/>
+        <attr name="text_size" format="dimension"/>
+        <attr name="label_text_size" format="dimension"/>
+        <attr name="hint" format="string"/>
+    </declare-styleable>
+</resources>
