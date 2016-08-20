@@ -12,7 +12,7 @@ import android.widget.TextView;
 
 
 /**
- * Created by Pawan on 08-08-2016.
+ * Created by Pawan Gupta on 08-08-2016.
  */
 public class EditTextWithLabel extends LinearLayout {
     private TextView mLabel;
