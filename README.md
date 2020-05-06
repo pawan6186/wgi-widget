@@ -1,6 +1,6 @@
 # wgi-widget
 
-Usage
+# Usage
 
 Step 1. Add the JitPack repository to your build file
 
